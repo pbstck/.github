@@ -1,7 +1,7 @@
 # Summary
-<-- (Context) -->
-<-- (Related issues) -->
-<-- (Figma) -->
+<!-- Context -->
+<!-- Related issues -->
+<!-- Figma -->
 
 ## Demo
 *
