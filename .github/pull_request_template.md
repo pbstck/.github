@@ -1,17 +1,13 @@
-# Summary
-<!-- Context -->
-<!-- Related issues -->
-<!-- Figma -->
+## Summary
+<!-- Describe what this PR does and why.
+- Context: what problem does it solve?
+- Related: #123, [Figma link]
+- Changes: brief list of what changed
+-->
 
-## Demo
-*
-
-## Changelog
-### Added
-*
-
-### Changes
-*
-
-### Fixes
-*
+## Test plan
+<!-- How was this tested?
+- Unit tests added for X
+- Manual: open /page, click Y, verify Z
+- Screenshot: ![alt](url)
+-->
